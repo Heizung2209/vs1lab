@@ -196,6 +196,16 @@ a {
   flex-direction:row;
 }
 
+
+
+
+/* ### TODO ### Styles for Tagging component */
+
+/* ... your code here ... */
+
+/* ### TODO ### Styles for Discovery component */
+
+/* ... your code here ... */
 .discovery__wrapper .discovery__map{
   flex-direction: column;
   display: flex;
@@ -227,25 +237,15 @@ a {
   margin:5% 0 1% 1%;
 }
 
+/* ### TODO ### Styles for Footer Component */
+
+/* ... your code here ... */
 .footer{
   padding: 2%;
   background-color: lightgrey;
   position:relative;
   width:100%;
 }
-/* ### TODO ### Styles for Tagging component */
-
-/* ... your code here ... */
-
-/* ### TODO ### Styles for Discovery component */
-
-/* ... your code here ... */
-
-
-/* ### TODO ### Styles for Footer Component */
-
-/* ... your code here ... */
-
 
 /* ### TODO ### Media Queries */
 
